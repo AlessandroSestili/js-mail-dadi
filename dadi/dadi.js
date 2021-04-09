@@ -11,9 +11,6 @@ for (var i = 0; i < mailValide.length; i++) {
     }
 }
 
-mailExists
-
-
 if(!mailExists) {
     alert("Inserisci una mail valida.")
 }
