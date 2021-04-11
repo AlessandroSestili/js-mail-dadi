@@ -12,5 +12,5 @@ if(numeroAI > numeroUtente) {
     alert("Wow! Hai vinto! ✅")
 }else {
     alert("C'è un pareggio! 😊")
-}
+}  
 
